@@ -8,7 +8,7 @@ function updateCircle(id, newRating, ratingId) {
 }
 
 
-updateCircle('circle1', 4, 'ratingValue1');
+updateCircle('circle1', 1, 'ratingValue1');
 updateCircle('circle2', 3, 'ratingValue2');
 updateCircle('circle3', 5, 'ratingValue3');
 updateCircle('circle4', 2.5,'ratingValue4');
